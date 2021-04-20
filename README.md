@@ -3,11 +3,11 @@ A study in blood glucose control for Type 1 Diabetes Mellitus patients
 
 # Control Examples
 ## Ideal System
-[animation1](ideal.gif)
+[animation1](Ideal.gif)
 ## System with Noise
-[animation2](ideal.gif)
+[animation2](Noise.gif)
 ## Average measurement Response
-[animation3](ideal.gif)
+[animation3](Average.gif)
 
 ## Literature review and Models
 ### Literature
