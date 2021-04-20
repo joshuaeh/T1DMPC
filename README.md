@@ -3,7 +3,7 @@ A study in blood glucose control for Type 1 Diabetes Mellitus patients
 
 # Control Examples
 ## Ideal System
-![] (Ideal.gif)
+![](Ideal.gif)
 ## System with Noise
 ![](Noise.gif)
 ## Average measurement Response
