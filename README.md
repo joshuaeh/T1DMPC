@@ -1,5 +1,14 @@
 # T1DMPC
 A study in blood glucose control for Type 1 Diabetes Mellitus patients
+
+# Control Examples
+## Ideal System
+[animation1](ideal.gif)
+## System with Noise
+[animation2](ideal.gif)
+## Average measurement Response
+[animation3](ideal.gif)
+
 ## Literature review and Models
 ### Literature
 #### [Reinforcement Learning in Diabetes Blood Glucose Control](https://www-sciencedirect-com.erl.lib.byu.edu/science/article/pii/S0933365718304548?via%3Dihub)
